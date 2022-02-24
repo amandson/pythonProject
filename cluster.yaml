@@ -1,0 +1,11 @@
+redis_cluster:
+    id:
+        #- "cl-v1dbfgum"  
+        - "cl-nyp1wiak"
+redis_standalone:
+    id:
+        #- "cl-v1dbfgum"
+        - "cl-n6dgyp0h"
+rabbimq_cluster:
+    id:
+        - "cl-uhcwxj7y"
